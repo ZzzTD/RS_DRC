@@ -8,6 +8,7 @@ This is the code implementation of "Dynamic range compression method for high ra
 
 ### Update log
 
+4/10/2024:The dataset has been made public.
 10/4/2024: Added related codes.
 
 ### Train and Test
