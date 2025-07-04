@@ -25,7 +25,7 @@ python test.py --dataroot XXX --name XXX
 ```
 
 ### Datesets
-All the data mentioned in the article has been uploaded to Baidu Cloud, link is:[https://pan.baidu.com/s/1NVu1yWH7cnFf56iHuakJZw](https://pan.baidu.com/s/1eDA5HaeYEvk2jpSH41jLrA]) (Extraction code:ESWA) 
+All the data mentioned in the article has been uploaded to Baidu Cloud, link is:https://pan.baidu.com/s/1mIpclz_UTShqAN8dF4zfww (Extraction code:ESWA) 
 
 ### Acknowledgments
 Our code is developed based on [contrastive-unpaired-translation](https://github.com/taesungp/contrastive-unpaired-translation) ,[F-LSeSim](https://github.com/lyndonzheng/F-LSeSim) and [Hneg_SRC](https://github.com/jcy132/Hneg_SRC)
